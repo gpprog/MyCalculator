@@ -10,10 +10,11 @@
     android:background="@android:color/background_dark"
     android:orientation="vertical"
     android:padding="10dp"
-    android:weightSum="100"
+
     tools:context=".MainActivity">
 
-<!--    Screen area  -->
+
+    <!--    Screen area  -->
 
     <LinearLayout
 
@@ -26,13 +27,13 @@
         android:orientation="vertical">
 
         <TextView
-
+            android:id="@+id/screen_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="end"
             android:gravity="center_vertical"
             android:padding="25sp"
-            android:text="0.00"
+            android:text="@string/screen_text"
             android:textColor="@android:color/background_light"
             android:textSize="28sp"
 
