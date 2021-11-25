@@ -60,7 +60,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:src="@drawable/ic_delete_red_30dp"
+            android:src="@drawable/ic_delete_30dp"
             android:tint="@android:color/background_light">
 
         </ImageButton>
