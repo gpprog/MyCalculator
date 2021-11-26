@@ -14,9 +14,7 @@
     </item>
     <item>
         <shape>
-            <solid
-                android:color="@color/myDarkGray"
-                ></solid>
+            <solid android:color="@color/colorPrimary"></solid>
 
             <stroke
 
