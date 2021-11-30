@@ -16,19 +16,6 @@
 
 
     <!--    Screen area  -->
-
-
-    <!--    End of screen Area  -->
-
-
-    <!--    first row   -->
-
-
-    <!--    second  row   -->
-
-
-    <!--    third  row   -->
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -50,6 +37,11 @@
             android:textSize="28sp" />
 
     </LinearLayout>
+
+    <!--    End of screen Area  -->
+
+
+    <!--    first row   -->
 
     <LinearLayout
 
@@ -106,10 +98,14 @@
 
             ></Button>
 
-        <!--        end of  first row  -->
-
 
     </LinearLayout>
+
+    <!--        end of  first row  -->
+
+
+    <!--    second  row   -->
+
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -157,10 +153,13 @@
             android:text="x"
             android:textSize="25sp"></Button>
 
-        <!--        end of  second row  -->
-
-
     </LinearLayout>
+
+    <!--        end of  second row  -->
+
+
+    <!--    third  row   -->
+
 
     <LinearLayout
         android:layout_width="match_parent"
