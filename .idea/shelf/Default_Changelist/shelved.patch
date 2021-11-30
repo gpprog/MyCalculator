@@ -1,0 +1,12 @@
+Index: .idea/render.experimental.xml
+===================================================================
+--- .idea/render.experimental.xml	(date 1637925004000)
++++ .idea/render.experimental.xml	(date 1637925004000)
+@@ -1,6 +0,0 @@
+-<?xml version="1.0" encoding="UTF-8"?>
+-<project version="4">
+-  <component name="RenderSettings">
+-    <option name="showDecorations" value="true" />
+-  </component>
+-</project>
+\ No newline at end of file
